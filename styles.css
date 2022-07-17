@@ -1,0 +1,51 @@
+#cli{
+    float: right;
+    padding-right: 30px;
+    word-spacing: 10px;
+
+}
+.removeunderline{
+    text-decoration: none;
+    color: salmon;
+    font-size: large;
+    
+}
+.gethelp{
+    padding: 5px;
+    color: orange;
+    background-color: rgb(5, 27, 1);
+    border: none;
+    
+}
+#cli1 {
+    
+        float: right;
+        margin-right: 50px;
+        width: 15px;
+        height: 15px;
+    }
+#cli2{
+    font-size: 20px;}
+    
+#cli2 h1 {
+    font-size: 30px;
+    margin-left: 25px;
+}
+#cli2 p {
+    margin-left: 25px;
+    line-height: 30px;
+}
+#or{
+    float: right;
+    margin-right: 10px;
+    width: 500px;
+    height: 500px;
+
+}
+
+#box{
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    box-shadow: -1px 0 10px black;;
+}
